@@ -1,16 +1,25 @@
-## Hi there 👋
+```
+~ lordduck                                   
+Perfil online focado em privacidade.           
+Use este perfil como referência                                         ⢀⣤⡶⠿⠿⠷⣶⣄⠀⠀⠀⠀⠀
+Para trabalhos ou parcerias.                                        ⠀⠀⣰⡿⠁⠀⠀⢀⣀⡀⠙⣷⡀⠀⠀⠀
+                                                          ⠀⠀⠀⡀⠀⠀⠀⠀⠀⢠⣿⠁⠀⠀⠀⠘⠿⠃⠀⢸⣿⣿⣿⣿
+Linguagens: HTML, CSS, Javascript                          ⣠⡿⠛⢷⣦⡀⠀⠀⠈⣿⡄⠀⠀⠀⠀⠀⠀⠀⣸⣿⣿⣿⠟ 
+Typescript, PHP, C, C++, Lua                              ⢰⡿⠁⠀⠀⠙⢿⣦⣤⣤⣼⣿⣄⠀⠀⠀⠀⠀⢴⡟⠛⠋⠁           
+Assembly, Kotlin, Java, Pyhon                             ⣿⠇⠀⠀⠀⠀⠀⠉⠉⠉⠉⠉⠁⠀⠀⠀⠀⠀⠈⣿⡀⠀
+                                                          ⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⡇⠀⠀⠀
+Frameworks: Flask, TailwindCSS, ExpressJS                 ⣿⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⡇⠀⠀⠀
+                                                          ⠸⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡿⠀⠀⠀⠀
+Ferramentas: Docker, Git, CMake, Makefile                  ⠀⠹⣷⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣰⡿⠁⠀⠀⠀
+Ubuntu, Bash, Windows Server                               ⠀⠀⠀⠉⠙⠛⠿⠶⣶⣶⣶⣶⣶⠶⠿⠟⠛⠉⠀⠀⠀⠀⠀
+                                                          ⠀⠀⠀         ⠀⠀⠀⠀⠀⠀⠀⠀⠀              
 
-<!--
-**n1lordduck/n1lordduck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Foco principal
 
-Here are some ideas to get you started:
+- Segurança da Informação
+  (Reverse Engineering, Exploiting geral)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Desenvolvimento de Jogos & Modding
+
+---------------------------------------------------------------------------------------------------------------
+```
