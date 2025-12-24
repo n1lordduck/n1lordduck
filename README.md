@@ -2,7 +2,7 @@
 ~ lordduck                                   
 Perfil online focado em privacidade.           
 Use este perfil como referência                                         ⢀⣤⡶⠿⠿⠷⣶⣄⠀⠀⠀⠀⠀
-Para trabalhos ou parcerias.                                        ⠀⠀⣰⡿⠁⠀⠀⢀⣀⡀⠙⣷⡀⠀⠀⠀
+Para trabalhos ou parcerias.  // Fluente em inglês                  ⠀⠀⣰⡿⠁⠀⠀⢀⣀⡀⠙⣷⡀⠀⠀⠀
                                                           ⠀⠀⠀⡀⠀⠀⠀⠀⠀⢠⣿⠁⠀⠀⠀⠘⠿⠃⠀⢸⣿⣿⣿⣿
 Linguagens: HTML, CSS, Javascript                          ⣠⡿⠛⢷⣦⡀⠀⠀⠈⣿⡄⠀⠀⠀⠀⠀⠀⠀⣸⣿⣿⣿⠟ 
 Typescript, PHP, C, C++, Lua                              ⢰⡿⠁⠀⠀⠙⢿⣦⣤⣤⣼⣿⣄⠀⠀⠀⠀⠀⢴⡟⠛⠋⠁           
