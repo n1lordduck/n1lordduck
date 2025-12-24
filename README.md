@@ -2,24 +2,24 @@
 ~ lordduck                                   
 Perfil online focado em privacidade.           
 Use este perfil como referência                                         ⢀⣤⡶⠿⠿⠷⣶⣄⠀⠀⠀⠀⠀
-Para trabalhos ou parcerias.  // Fluente em inglês                  ⠀⠀⣰⡿⠁⠀⠀⢀⣀⡀⠙⣷⡀⠀⠀⠀
+Para trabalhos ou parcerias.  // Fluent in english                  ⠀⠀⣰⡿⠁⠀⠀⢀⣀⡀⠙⣷⡀⠀⠀⠀
                                                           ⠀⠀⠀⡀⠀⠀⠀⠀⠀⢠⣿⠁⠀⠀⠀⠘⠿⠃⠀⢸⣿⣿⣿⣿
-Linguagens: HTML, CSS, Javascript                          ⣠⡿⠛⢷⣦⡀⠀⠀⠈⣿⡄⠀⠀⠀⠀⠀⠀⠀⣸⣿⣿⣿⠟ 
+Langs: HTML, CSS, Javascript                                ⣠⡿⠛⢷⣦⡀⠀⠀⠈⣿⡄⠀⠀⠀⠀⠀⠀⠀⣸⣿⣿⣿⠟ 
 Typescript, PHP, C, C++, Lua                              ⢰⡿⠁⠀⠀⠙⢿⣦⣤⣤⣼⣿⣄⠀⠀⠀⠀⠀⢴⡟⠛⠋⠁           
 Assembly, Kotlin, Java, Pyhon                             ⣿⠇⠀⠀⠀⠀⠀⠉⠉⠉⠉⠉⠁⠀⠀⠀⠀⠀⠈⣿⡀⠀
                                                           ⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⡇⠀⠀⠀
 Frameworks: Flask, TailwindCSS, ExpressJS                 ⣿⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⡇⠀⠀⠀
                                                           ⠸⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡿⠀⠀⠀⠀
-Ferramentas: Docker, Git, CMake, Makefile                  ⠀⠹⣷⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣰⡿⠁⠀⠀⠀
+Tools: Docker, Git, CMake, Makefile                       ⠀⠹⣷⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣰⡿⠁⠀⠀⠀
 Ubuntu, Bash, Windows Server                               ⠀⠀⠀⠉⠙⠛⠿⠶⣶⣶⣶⣶⣶⠶⠿⠟⠛⠉⠀⠀⠀⠀⠀
                                                           ⠀⠀⠀         ⠀⠀⠀⠀⠀⠀⠀⠀⠀              
 
 ## Foco principal
 
-- Segurança da Informação
+- Segurança da Informação / Information Security
   (Reverse Engineering, Exploiting geral)
 
-- Desenvolvimento de Jogos & Modding
+- Desenvolvimento de Jogos & Modding / Game development and modding
 
 ---------------------------------------------------------------------------------------------------------------
 ```
