@@ -1,7 +1,7 @@
 ```
 ~ lordduck                                          
-Use este perfil como referência                                          ⣤⡶⠿⠿⠷⣶⣄⠀⠀⠀⠀⠀
-Para trabalhos ou parcerias.  // Fluent in english                  ⠀⠀⣰⡿⠁ ⠀⢀⣀⡀⠙⣷⡀⠀⠀⠀
+Este perfil é mais um lugar onde                                         ⣤⡶⠿⠿⠷⣶⣄⠀⠀⠀⠀⠀
+guardo pequenos projetos ou coisas úteis                            ⠀⠀⣰⡿⠁ ⠀⢀⣀⡀⠙⣷⡀⠀⠀⠀
                                                           ⠀⠀⠀⡀⠀⠀⠀⠀⠀⢠⣿⠁⠀⠀⠀⠘⠿⠃⠀⢸⣿⣿⣿⣿
 Langs: HTML, CSS, Javascript                               ⣠⡿⠛⢷⣦⡀⠀⠀⠈⣿⡄⠀⠀⠀⠀⠀⠀⠀⣸⣿⣿⣿⠟ 
 Typescript, PHP, C, C++, Lua                              ⢰⡿⠁⠀⠀⠙⢿⣦⣤⣤⣼⣿⣄⠀⠀⠀⠀⠀⢴⡟⠛⠋⠁           
@@ -12,6 +12,9 @@ Frameworks: Flask, TailwindCSS, ExpressJS                 ⣿⡆⠀⠀⠀⠀⠀�
 Tools: Docker, Git, CMake, Makefile                       ⠀⠹⣷⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣰⡿⠀⠀⠀
 Ubuntu, Bash, Windows Server                               ⠀⠀⠀⠉⠙⠛⠿⠶⣶⣶⣶⣶⣶⠶⠿⠟⠀⠀⠀⠀⠀
                                                           ⠀⠀⠀         ⠀⠀⠀⠀⠀⠀⠀⠀⠀              
+
+Não uso este perfil muito, mas gosto de colaborar em projetos,
+e coisas do tipo.
 
 ## Foco principal
 
